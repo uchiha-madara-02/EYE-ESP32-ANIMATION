@@ -6,3 +6,4 @@ PIN DIAGRAM:
     + 21          SDA
 
 - Bản số 2 có nháy mắt nha anh em !!!
+- Bản số 3 có gần 30 biểu cảm nha !!!
